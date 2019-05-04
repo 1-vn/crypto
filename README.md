@@ -1,12 +1,12 @@
-# Brave crypto utils
+# OneVN crypto utils
 
-[![Build Status](https://travis-ci.org/brave/crypto.svg?branch=master)](https://travis-ci.org/brave/crypto)
+[![Build Status](https://travis-ci.org/onevn/crypto.svg?branch=master)](https://travis-ci.org/onevn/crypto)
 
-Shared crypto utils for Brave browser.
+Shared crypto utils for OneVN browser.
 
 ## Install
 
-`npm install brave-crypto`
+`npm install onevn-crypto`
 
 ## Docs
 

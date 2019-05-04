@@ -1,7 +1,7 @@
 {
-  "name": "brave-crypto",
+  "name": "onevn-crypto",
   "version": "0.2.1",
-  "description": "Crypto utils for Brave Browser",
+  "description": "Crypto utils for OneVN Browser",
   "keywords": [
     "nacl",
     "tweetnacl",
@@ -11,7 +11,7 @@
     "entropy",
     "encryption"
   ],
-  "homepage": "http://www.github.com/brave/crypto",
+  "homepage": "http://www.github.com/1-vn/crypto",
   "main": "index.js",
   "devDependencies": {
     "browserify": "^16.2.3",
@@ -36,10 +36,10 @@
       "test/indexTest.js"
     ]
   },
-  "author": "yan <yan@brave.com",
+  "author": "Daniel Do <diep@1-vn.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/brave/crypto.git"
+    "url": "git://github.com/1-vn/crypto.git"
   },
   "license": "MPL-2.0",
   "dependencies": {
